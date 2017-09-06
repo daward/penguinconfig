@@ -1,0 +1,11 @@
+newrelic:
+  policy: Fulfiller Integration Squad policy
+  refreshrate: 10000
+
+slideshow:
+  youtube:
+    - 7U7ijVPuZ3Q #kittens
+    - qrgX5W1NiGQ #puffins
+    - 1tyxTfhlDmk #fish
+    - kBsp75gXFZo #jellyfish
+  rate: 120000
