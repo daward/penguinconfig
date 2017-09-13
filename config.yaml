@@ -3,9 +3,10 @@ newrelic:
   refreshrate: 10000
 
 slideshow:
-  youtube:
-    - Lq3iH0tedtA #breath of the wild
+  youtube:    
     - 7U7ijVPuZ3Q #kittens
     - -CpDQ6BT5mk #puppies!
     - kBsp75gXFZo #jellyfish
+  twitch:
+    - cgntv_
   rate: 120000
