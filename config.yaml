@@ -8,7 +8,7 @@ gitlab:
     - 121
     - 338
     - 169
-  refreshrate: 10000
+  refreshRate: 300000
 
 slideshow:
   youtube:
