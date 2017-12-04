@@ -1,6 +1,6 @@
 newrelic:
   policy: Fulfiller Integration Squad policy
-  refreshrate: 10000
+  refreshRate: 10000
   
 gitlab:
   groupId: 121
