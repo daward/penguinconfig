@@ -7,7 +7,7 @@ gitlab:
     - 121
     - 338
     - 169
-  refreshRate: 300000
+  refreshRate: 150000
   alwaysShowLeaders: true
 
 slideshow:
