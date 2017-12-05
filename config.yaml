@@ -3,12 +3,12 @@ newrelic:
   refreshRate: 10000
   
 gitlab:
-  groupId: 121
   groupIds:
     - 121
     - 338
     - 169
   refreshRate: 300000
+  alwaysShowLeaders: true
 
 slideshow:
   youtube:
