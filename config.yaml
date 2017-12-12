@@ -8,6 +8,7 @@ gitlab:
     - 338
     - 388
     - 169
+    - 394
   refreshRate: 150000
   alwaysShowLeaders: true
 
